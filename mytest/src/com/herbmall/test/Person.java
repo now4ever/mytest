@@ -26,7 +26,7 @@ public class Person {
 	}
 	
 	public void showInfo() {
-		System.out.println("Person클래스의 showInfo()메서드!!");
+		System.out.println("Person클래스의 showInfo()메서드!!123456");
 	}
 	
 }
